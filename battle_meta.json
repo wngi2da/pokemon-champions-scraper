@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": "2026-07-13T05:43:30.560535Z",
+  "updated_at": "2026-07-14T04:57:15.653645Z",
   "season": {
     "id": "regmb-s3",
     "name": "Regulation Set M-B S3",
@@ -22297,7 +22297,7 @@
     {
       "name": "Pikalytics",
       "url": "https://www.pikalytics.com",
-      "scraped_at": "2026-07-13T05:43:29.300418Z"
+      "scraped_at": "2026-07-14T04:57:14.773524Z"
     }
   ]
 }
