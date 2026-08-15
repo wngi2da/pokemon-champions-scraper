@@ -3,9 +3,9 @@
   "name": "Ampharos",
   "form": null,
   "competitive": {
-    "usage_rank": 118,
-    "usage_rate": 0.0006173210880545753,
-    "win_rate": 0.3665254237288136,
+    "usage_rank": 99,
+    "usage_rate": 0.0007819407341211367,
+    "win_rate": 0.40425531914893614,
     "moves": [
       {
         "id": 406,

@@ -3,9 +3,9 @@
   "name": "Avalugg",
   "form": null,
   "competitive": {
-    "usage_rank": 208,
-    "usage_rate": 2.61576732226515e-06,
-    "win_rate": 0.0,
+    "usage_rank": 204,
+    "usage_rate": 3.565079334898799e-05,
+    "win_rate": 0.4666666666666667,
     "moves": [
       {
         "id": 105,

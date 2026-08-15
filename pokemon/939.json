@@ -3,9 +3,9 @@
   "name": "Bellibolt",
   "form": null,
   "competitive": {
-    "usage_rank": 105,
-    "usage_rate": 0.000732414850234242,
-    "win_rate": 0.4,
+    "usage_rank": 101,
+    "usage_rate": 0.0007676804167815414,
+    "win_rate": 0.39628482972136225,
     "moves": [
       {
         "id": 570,

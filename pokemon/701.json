@@ -3,9 +3,9 @@
   "name": "Hawlucha",
   "form": null,
   "competitive": {
-    "usage_rank": 100,
-    "usage_rate": 0.0008135036372244616,
-    "win_rate": 0.4115755627009646,
+    "usage_rank": 90,
+    "usage_rate": 0.0009982222137716638,
+    "win_rate": 0.4,
     "moves": [
       {
         "id": 494,

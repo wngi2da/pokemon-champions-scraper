@@ -3,9 +3,9 @@
   "name": "Pangoro",
   "form": null,
   "competitive": {
-    "usage_rank": 181,
-    "usage_rate": 0.0001621775739804393,
-    "win_rate": 0.31451612903225806,
+    "usage_rank": 172,
+    "usage_rate": 0.00019489100364113437,
+    "win_rate": 0.38414634146341464,
     "moves": [
       {
         "id": 280,

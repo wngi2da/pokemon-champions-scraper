@@ -3,9 +3,9 @@
   "name": "Rotom-Wash",
   "form": "wash",
   "competitive": {
-    "usage_rank": 39,
-    "usage_rate": 0.006659743602487072,
-    "win_rate": 0.4601335428122545,
+    "usage_rank": 47,
+    "usage_rate": 0.005644708946923099,
+    "win_rate": 0.4376842105263158,
     "moves": [
       {
         "id": 56,

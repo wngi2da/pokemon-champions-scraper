@@ -3,9 +3,9 @@
   "name": "Froslass",
   "form": null,
   "competitive": {
-    "usage_rank": 30,
-    "usage_rate": 0.009097638746838192,
-    "win_rate": 0.5020126509488212,
+    "usage_rank": 27,
+    "usage_rate": 0.00983011208609429,
+    "win_rate": 0.5083413926499033,
     "moves": [
       {
         "id": 59,

@@ -3,9 +3,9 @@
   "name": "Quaquaval",
   "form": null,
   "competitive": {
-    "usage_rank": 135,
-    "usage_rate": 0.00043160160817374974,
-    "win_rate": 0.3878787878787879,
+    "usage_rank": 158,
+    "usage_rate": 0.0003042201032446975,
+    "win_rate": 0.46875,
     "moves": [
       {
         "id": 370,

@@ -3,9 +3,9 @@
   "name": "Medicham",
   "form": null,
   "competitive": {
-    "usage_rank": 140,
-    "usage_rate": 0.00042113853888468914,
-    "win_rate": 0.422360248447205,
+    "usage_rank": 129,
+    "usage_rate": 0.0005537756566876135,
+    "win_rate": 0.5085836909871244,
     "moves": [
       {
         "id": 252,

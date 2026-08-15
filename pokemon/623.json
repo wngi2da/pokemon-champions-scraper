@@ -3,9 +3,9 @@
   "name": "Golurk",
   "form": null,
   "competitive": {
-    "usage_rank": 91,
-    "usage_rate": 0.0009913758151384917,
-    "win_rate": 0.3891820580474934,
+    "usage_rank": 97,
+    "usage_rate": 0.000798577771017331,
+    "win_rate": 0.43898809523809523,
     "moves": [
       {
         "id": 182,

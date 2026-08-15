@@ -3,9 +3,9 @@
   "name": "Scizor",
   "form": null,
   "competitive": {
-    "usage_rank": 66,
-    "usage_rate": 0.0016296230417711885,
-    "win_rate": 0.4967897271268058,
+    "usage_rank": 54,
+    "usage_rate": 0.002980406323975396,
+    "win_rate": 0.4421850079744817,
     "moves": [
       {
         "id": 418,

@@ -3,9 +3,9 @@
   "name": "Morpeko",
   "form": null,
   "competitive": {
-    "usage_rank": 153,
-    "usage_rate": 0.0003060447767050225,
-    "win_rate": 0.4188034188034188,
+    "usage_rank": 177,
+    "usage_rate": 0.00017825396674493998,
+    "win_rate": 0.36,
     "moves": [
       {
         "id": 252,
