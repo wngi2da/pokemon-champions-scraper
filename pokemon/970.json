@@ -3,9 +3,9 @@
   "name": "Glimmora",
   "form": null,
   "competitive": {
-    "usage_rank": 25,
-    "usage_rate": 0.010493216842385467,
-    "win_rate": 0.5113250283125708,
+    "usage_rank": 33,
+    "usage_rate": 0.008486910429594005,
+    "win_rate": 0.49473684210526314,
     "moves": [
       {
         "id": 408,

@@ -3,9 +3,9 @@
   "name": "Alakazam",
   "form": null,
   "competitive": {
-    "usage_rank": 144,
-    "usage_rate": 0.00036839153127287593,
-    "win_rate": 0.36129032258064514,
+    "usage_rank": 127,
+    "usage_rate": 0.0004429571671586345,
+    "win_rate": 0.2857142857142857,
     "moves": [
       {
         "id": 247,

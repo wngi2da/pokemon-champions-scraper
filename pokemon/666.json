@@ -3,9 +3,9 @@
   "name": "Vivillon",
   "form": null,
   "competitive": {
-    "usage_rank": 45,
-    "usage_rate": 0.005825339633224638,
-    "win_rate": 0.49530803753569974,
+    "usage_rank": 42,
+    "usage_rate": 0.005214983119237369,
+    "win_rate": 0.483226266952177,
     "moves": [
       {
         "id": 79,

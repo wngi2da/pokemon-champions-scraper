@@ -3,9 +3,9 @@
   "name": "Vaporeon",
   "form": null,
   "competitive": {
-    "usage_rank": 147,
-    "usage_rate": 0.0003636380921596775,
-    "win_rate": 0.4019607843137255,
+    "usage_rank": 160,
+    "usage_rate": 0.00023822906469035806,
+    "win_rate": 0.3203125,
     "moves": [
       {
         "id": 347,

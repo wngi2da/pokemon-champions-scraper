@@ -3,9 +3,9 @@
   "name": "Excadrill",
   "form": null,
   "competitive": {
-    "usage_rank": 24,
-    "usage_rate": 0.013148012587106772,
-    "win_rate": 0.5055133767172812,
+    "usage_rank": 31,
+    "usage_rate": 0.008866588001444263,
+    "win_rate": 0.506926952141058,
     "moves": [
       {
         "id": 442,

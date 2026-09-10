@@ -3,9 +3,9 @@
   "name": "Kommo-o",
   "form": "o",
   "competitive": {
-    "usage_rank": 42,
-    "usage_rate": 0.006060634869327959,
-    "win_rate": 0.5227450980392156,
+    "usage_rank": 44,
+    "usage_rate": 0.004645466761461982,
+    "win_rate": 0.47315705128205127,
     "moves": [
       {
         "id": 691,

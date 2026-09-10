@@ -3,9 +3,9 @@
   "name": "Abomasnow",
   "form": null,
   "competitive": {
-    "usage_rank": 113,
-    "usage_rate": 0.000679741793187371,
-    "win_rate": 0.4423076923076923,
+    "usage_rank": 120,
+    "usage_rate": 0.0005471823829606661,
+    "win_rate": 0.3673469387755102,
     "moves": [
       {
         "id": 59,

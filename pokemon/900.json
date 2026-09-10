@@ -3,9 +3,9 @@
   "name": "Kleavor",
   "form": null,
   "competitive": {
-    "usage_rank": 72,
-    "usage_rate": 0.0015092169184404917,
-    "win_rate": 0.3905511811023622,
+    "usage_rank": 64,
+    "usage_rate": 0.0016936597567830142,
+    "win_rate": 0.3802197802197802,
     "moves": [
       {
         "id": 830,
