@@ -3,9 +3,9 @@
   "name": "Klefki",
   "form": null,
   "competitive": {
-    "usage_rank": 96,
-    "usage_rate": 0.0008412463846878269,
-    "win_rate": 0.4269911504424779,
+    "usage_rank": 100,
+    "usage_rate": 0.0007669803981723952,
+    "win_rate": 0.430952380952381,
     "moves": [
       {
         "id": 113,

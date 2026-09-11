@@ -3,9 +3,9 @@
   "name": "Malamar",
   "form": null,
   "competitive": {
-    "usage_rank": 76,
-    "usage_rate": 0.0013847064385127063,
-    "win_rate": 0.3911290322580645,
+    "usage_rank": 78,
+    "usage_rate": 0.0013148235397241062,
+    "win_rate": 0.3958333333333333,
     "moves": [
       {
         "id": 276,

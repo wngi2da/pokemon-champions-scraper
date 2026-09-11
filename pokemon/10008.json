@@ -3,9 +3,9 @@
   "name": "Rotom-Heat",
   "form": "heat",
   "competitive": {
-    "usage_rank": 80,
-    "usage_rate": 0.0012097569691307244,
-    "win_rate": 0.3984615384615385,
+    "usage_rank": 83,
+    "usage_rate": 0.001205254911413764,
+    "win_rate": 0.40454545454545454,
     "moves": [
       {
         "id": 315,

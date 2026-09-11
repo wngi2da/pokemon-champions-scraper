@@ -3,9 +3,9 @@
   "name": "Gardevoir",
   "form": null,
   "competitive": {
-    "usage_rank": 51,
-    "usage_rate": 0.0037967757185025813,
-    "win_rate": 0.47205882352941175,
+    "usage_rank": 48,
+    "usage_rate": 0.004280481079324034,
+    "win_rate": 0.47312286689419797,
     "moves": [
       {
         "id": 304,
