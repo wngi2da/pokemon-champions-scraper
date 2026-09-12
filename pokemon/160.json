@@ -3,9 +3,9 @@
   "name": "Feraligatr",
   "form": null,
   "competitive": {
-    "usage_rank": 90,
-    "usage_rate": 0.0009934222300137692,
-    "win_rate": 0.3860294117647059,
+    "usage_rank": 95,
+    "usage_rate": 0.0009119658748253291,
+    "win_rate": 0.375,
     "moves": [
       {
         "id": 710,

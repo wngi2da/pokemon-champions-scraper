@@ -3,9 +3,9 @@
   "name": "Noivern",
   "form": null,
   "competitive": {
-    "usage_rank": 169,
-    "usage_rate": 0.0001935712433482712,
-    "win_rate": 0.32075471698113206,
+    "usage_rank": 176,
+    "usage_rate": 0.00015444583363977347,
+    "win_rate": 0.30952380952380953,
     "moves": [
       {
         "id": 403,

@@ -3,9 +3,9 @@
   "name": "Raichu-Alola",
   "form": "alola",
   "competitive": {
-    "usage_rank": 182,
-    "usage_rate": 0.00012783006636206588,
-    "win_rate": 0.3142857142857143,
+    "usage_rank": 175,
+    "usage_rate": 0.0001581231153931014,
+    "win_rate": 0.32558139534883723,
     "moves": [
       {
         "id": 94,

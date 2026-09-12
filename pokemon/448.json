@@ -3,9 +3,9 @@
   "name": "Lucario",
   "form": null,
   "competitive": {
-    "usage_rank": 63,
-    "usage_rate": 0.0017896209290689223,
-    "win_rate": 0.39183673469387753,
+    "usage_rank": 59,
+    "usage_rate": 0.0025557108185629185,
+    "win_rate": 0.41294964028776976,
     "moves": [
       {
         "id": 370,

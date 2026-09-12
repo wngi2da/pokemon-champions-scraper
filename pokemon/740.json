@@ -3,9 +3,9 @@
   "name": "Crabominable",
   "form": null,
   "competitive": {
-    "usage_rank": 105,
-    "usage_rate": 0.000686630070744811,
-    "win_rate": 0.4148936170212766,
+    "usage_rank": 99,
+    "usage_rate": 0.0007795837317055232,
+    "win_rate": 0.41509433962264153,
     "moves": [
       {
         "id": 182,

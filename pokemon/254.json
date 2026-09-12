@@ -3,9 +3,9 @@
   "name": "Sceptile",
   "form": null,
   "competitive": {
-    "usage_rank": 87,
-    "usage_rate": 0.0011249045839861796,
-    "win_rate": 0.37662337662337664,
+    "usage_rank": 89,
+    "usage_rate": 0.0010847981172317422,
+    "win_rate": 0.3728813559322034,
     "moves": [
       {
         "id": 406,

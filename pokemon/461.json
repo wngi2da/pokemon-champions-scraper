@@ -3,9 +3,9 @@
   "name": "Weavile",
   "form": null,
   "competitive": {
-    "usage_rank": 74,
-    "usage_rate": 0.0014280444556447932,
-    "win_rate": 0.45907928388746805,
+    "usage_rank": 79,
+    "usage_rate": 0.0013238214311980584,
+    "win_rate": 0.45416666666666666,
     "moves": [
       {
         "id": 252,

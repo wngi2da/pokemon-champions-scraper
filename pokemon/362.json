@@ -3,9 +3,9 @@
   "name": "Glalie",
   "form": null,
   "competitive": {
-    "usage_rank": 153,
-    "usage_rate": 0.00028487843360688967,
-    "win_rate": 0.5256410256410257,
+    "usage_rank": 161,
+    "usage_rate": 0.00025373244097962787,
+    "win_rate": 0.5072463768115942,
     "moves": [
       {
         "id": 153,
