@@ -3,9 +3,9 @@
   "name": "Absol",
   "form": null,
   "competitive": {
-    "usage_rank": 87,
-    "usage_rate": 0.00110686180775171,
-    "win_rate": 0.39700996677740863,
+    "usage_rank": 59,
+    "usage_rate": 0.0025337646766056604,
+    "win_rate": 0.37308673469387754,
     "moves": [
       {
         "id": 182,

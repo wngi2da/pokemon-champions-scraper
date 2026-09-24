@@ -3,9 +3,9 @@
   "name": "Chimecho",
   "form": null,
   "competitive": {
-    "usage_rank": 163,
-    "usage_rate": 0.0002206369051996764,
-    "win_rate": 0.43333333333333335,
+    "usage_rank": 154,
+    "usage_rate": 0.000219765303583144,
+    "win_rate": 0.47058823529411764,
     "moves": [
       {
         "id": 94,

@@ -3,9 +3,9 @@
   "name": "Blastoise",
   "form": null,
   "competitive": {
-    "usage_rank": 27,
-    "usage_rate": 0.010116202103405162,
-    "win_rate": 0.5014540167211923,
+    "usage_rank": 39,
+    "usage_rate": 0.006499235669201508,
+    "win_rate": 0.47812033814022875,
     "moves": [
       {
         "id": 323,

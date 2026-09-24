@@ -3,9 +3,9 @@
   "name": "Tauros-Paldea-Aqua",
   "form": "paldea-aqua",
   "competitive": {
-    "usage_rank": 165,
-    "usage_rate": 0.00020960505993969258,
-    "win_rate": 0.543859649122807,
+    "usage_rank": 171,
+    "usage_rate": 0.00016159213498760587,
+    "win_rate": 0.48,
     "moves": [
       {
         "id": 182,

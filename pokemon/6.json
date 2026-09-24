@@ -3,9 +3,9 @@
   "name": "Charizard",
   "form": null,
   "competitive": {
-    "usage_rank": 7,
-    "usage_rate": 0.03662572626314628,
-    "win_rate": 0.5022088353413655,
+    "usage_rank": 11,
+    "usage_rate": 0.027460967419793744,
+    "win_rate": 0.5004707543839002,
     "moves": [
       {
         "id": 182,

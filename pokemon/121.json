@@ -3,9 +3,9 @@
   "name": "Starmie",
   "form": null,
   "competitive": {
-    "usage_rank": 115,
-    "usage_rate": 0.0005846877987791424,
-    "win_rate": 0.36792452830188677,
+    "usage_rank": 111,
+    "usage_rate": 0.000523558517359843,
+    "win_rate": 0.3425925925925926,
     "moves": [
       {
         "id": 710,

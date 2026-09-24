@@ -3,9 +3,9 @@
   "name": "Aerodactyl",
   "form": null,
   "competitive": {
-    "usage_rank": 18,
-    "usage_rate": 0.015356328601897477,
-    "win_rate": 0.4794061302681992,
+    "usage_rank": 28,
+    "usage_rate": 0.010535807201191903,
+    "win_rate": 0.47868098159509204,
     "moves": [
       {
         "id": 157,

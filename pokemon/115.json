@@ -3,9 +3,9 @@
   "name": "Kangaskhan",
   "form": null,
   "competitive": {
-    "usage_rank": 55,
-    "usage_rate": 0.003008016474222255,
-    "win_rate": 0.4474327628361858,
+    "usage_rank": 64,
+    "usage_rate": 0.0017354995297668872,
+    "win_rate": 0.45344506517690875,
     "moves": [
       {
         "id": 252,

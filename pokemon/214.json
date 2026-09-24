@@ -3,9 +3,9 @@
   "name": "Heracross",
   "form": null,
   "competitive": {
-    "usage_rank": 131,
-    "usage_rate": 0.0004155328381260572,
-    "win_rate": 0.4424778761061947,
+    "usage_rank": 141,
+    "usage_rate": 0.0002714747867791779,
+    "win_rate": 0.4880952380952381,
     "moves": [
       {
         "id": 350,

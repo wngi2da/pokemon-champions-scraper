@@ -3,9 +3,9 @@
   "name": "Aegislash",
   "form": null,
   "competitive": {
-    "usage_rank": 74,
-    "usage_rate": 0.001408398911524601,
-    "win_rate": 0.43733681462140994,
+    "usage_rank": 67,
+    "usage_rate": 0.0015965302936775461,
+    "win_rate": 0.4605263157894737,
     "moves": [
       {
         "id": 809,

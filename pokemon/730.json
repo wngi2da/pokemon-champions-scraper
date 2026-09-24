@@ -3,9 +3,9 @@
   "name": "Primarina",
   "form": null,
   "competitive": {
-    "usage_rank": 40,
-    "usage_rate": 0.005449731558432007,
-    "win_rate": 0.49460188933873145,
+    "usage_rank": 36,
+    "usage_rate": 0.007281341602541521,
+    "win_rate": 0.4620505992010652,
     "moves": [
       {
         "id": 304,

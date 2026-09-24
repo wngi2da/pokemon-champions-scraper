@@ -3,9 +3,9 @@
   "name": "Delphox",
   "form": null,
   "competitive": {
-    "usage_rank": 17,
-    "usage_rate": 0.01766933882474075,
-    "win_rate": 0.49687825182101975,
+    "usage_rank": 29,
+    "usage_rate": 0.010322505583008264,
+    "win_rate": 0.5007827175954915,
     "moves": [
       {
         "id": 182,

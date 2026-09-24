@@ -3,9 +3,9 @@
   "name": "Manectric",
   "form": null,
   "competitive": {
-    "usage_rank": 129,
-    "usage_rate": 0.00043024196513936897,
-    "win_rate": 0.4700854700854701,
+    "usage_rank": 127,
+    "usage_rate": 0.00037812559587099777,
+    "win_rate": 0.4358974358974359,
     "moves": [
       {
         "id": 521,

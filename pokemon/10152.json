@@ -3,9 +3,9 @@
   "name": "Lycanroc-Dusk",
   "form": "dusk",
   "competitive": {
-    "usage_rank": 35,
-    "usage_rate": 0.007803191880561888,
-    "win_rate": 0.5242695570216777,
+    "usage_rank": 41,
+    "usage_rate": 0.0059498224102436485,
+    "win_rate": 0.5002715915263444,
     "moves": [
       {
         "id": 709,

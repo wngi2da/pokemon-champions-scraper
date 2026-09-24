@@ -3,9 +3,9 @@
   "name": "Scolipede",
   "form": null,
   "competitive": {
-    "usage_rank": 104,
-    "usage_rate": 0.000735456350665588,
-    "win_rate": 0.435,
+    "usage_rank": 99,
+    "usage_rate": 0.0006916143377469531,
+    "win_rate": 0.4205607476635514,
     "moves": [
       {
         "id": 182,

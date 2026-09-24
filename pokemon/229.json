@@ -3,9 +3,9 @@
   "name": "Houndoom",
   "form": null,
   "competitive": {
-    "usage_rank": 105,
-    "usage_rate": 0.0007207472236522763,
-    "win_rate": 0.3903061224489796,
+    "usage_rank": 114,
+    "usage_rate": 0.0004912400903623219,
+    "win_rate": 0.40460526315789475,
     "moves": [
       {
         "id": 182,
