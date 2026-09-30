@@ -3,9 +3,9 @@
   "name": "Aurorus",
   "form": null,
   "competitive": {
-    "usage_rank": 149,
-    "usage_rate": 0.00025531557328041727,
-    "win_rate": 0.31645569620253167,
+    "usage_rank": 129,
+    "usage_rate": 0.0003679992893806826,
+    "win_rate": 0.3706896551724138,
     "moves": [
       {
         "id": 59,

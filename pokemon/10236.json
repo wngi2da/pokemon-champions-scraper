@@ -3,9 +3,9 @@
   "name": "Samurott-Hisui",
   "form": "hisui",
   "competitive": {
-    "usage_rank": 87,
-    "usage_rate": 0.0009986393942234043,
-    "win_rate": 0.4854368932038835,
+    "usage_rank": 93,
+    "usage_rate": 0.0008121363627711615,
+    "win_rate": 0.4765625,
     "moves": [
       {
         "id": 533,

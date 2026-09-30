@@ -3,9 +3,9 @@
   "name": "Grimmsnarl",
   "form": null,
   "competitive": {
-    "usage_rank": 25,
-    "usage_rate": 0.01106582940395125,
-    "win_rate": 0.5004380841121495,
+    "usage_rank": 24,
+    "usage_rate": 0.010992392566414355,
+    "win_rate": 0.5036075036075036,
     "moves": [
       {
         "id": 113,

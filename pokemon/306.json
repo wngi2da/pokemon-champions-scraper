@@ -3,9 +3,9 @@
   "name": "Aggron",
   "form": null,
   "competitive": {
-    "usage_rank": 118,
-    "usage_rate": 0.00046861719146405707,
-    "win_rate": 0.33793103448275863,
+    "usage_rank": 114,
+    "usage_rate": 0.0004822059653953772,
+    "win_rate": 0.35526315789473684,
     "moves": [
       {
         "id": 776,

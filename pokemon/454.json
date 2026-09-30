@@ -3,9 +3,9 @@
   "name": "Toxicroak",
   "form": null,
   "competitive": {
-    "usage_rank": 191,
-    "usage_rate": 8.725975289330717e-05,
-    "win_rate": 0.2962962962962963,
+    "usage_rank": 185,
+    "usage_rate": 0.00011420667601469459,
+    "win_rate": 0.3333333333333333,
     "moves": [
       {
         "id": 252,

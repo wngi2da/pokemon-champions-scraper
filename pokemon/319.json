@@ -3,9 +3,9 @@
   "name": "Sharpedo",
   "form": null,
   "competitive": {
-    "usage_rank": 156,
-    "usage_rate": 0.00021653346088339187,
-    "win_rate": 0.3582089552238806,
+    "usage_rank": 161,
+    "usage_rate": 0.000190344460024491,
+    "win_rate": 0.31666666666666665,
     "moves": [
       {
         "id": 182,

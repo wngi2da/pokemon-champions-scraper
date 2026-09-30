@@ -3,9 +3,9 @@
   "name": "Gengar",
   "form": null,
   "competitive": {
-    "usage_rank": 32,
-    "usage_rate": 0.008680729491534188,
-    "win_rate": 0.524385703648548,
+    "usage_rank": 31,
+    "usage_rate": 0.009672670976911216,
+    "win_rate": 0.5245982289275172,
     "moves": [
       {
         "id": 247,

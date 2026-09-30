@@ -3,9 +3,9 @@
   "name": "Gyarados",
   "form": null,
   "competitive": {
-    "usage_rank": 81,
-    "usage_rate": 0.0011052902033152243,
-    "win_rate": 0.4619883040935672,
+    "usage_rank": 87,
+    "usage_rate": 0.0010246876764651764,
+    "win_rate": 0.4551083591331269,
     "moves": [
       {
         "id": 127,

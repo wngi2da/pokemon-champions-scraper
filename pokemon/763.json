@@ -3,9 +3,9 @@
   "name": "Tsareena",
   "form": null,
   "competitive": {
-    "usage_rank": 55,
-    "usage_rate": 0.0030896416209630247,
-    "win_rate": 0.47123430962343094,
+    "usage_rank": 58,
+    "usage_rate": 0.002661650032675799,
+    "win_rate": 0.4696066746126341,
     "moves": [
       {
         "id": 813,

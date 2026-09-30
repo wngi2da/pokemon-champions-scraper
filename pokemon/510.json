@@ -3,9 +3,9 @@
   "name": "Liepard",
   "form": null,
   "competitive": {
-    "usage_rank": 139,
-    "usage_rate": 0.0002811703148784342,
-    "win_rate": 0.4827586206896552,
+    "usage_rank": 146,
+    "usage_rate": 0.0002759994670355119,
+    "win_rate": 0.5172413793103449,
     "moves": [
       {
         "id": 252,

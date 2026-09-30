@@ -3,9 +3,9 @@
   "name": "Hippowdon",
   "form": null,
   "competitive": {
-    "usage_rank": 140,
-    "usage_rate": 0.0002811703148784342,
-    "win_rate": 0.3620689655172414,
+    "usage_rank": 151,
+    "usage_rate": 0.00025379261336598796,
+    "win_rate": 0.39375,
     "moves": [
       {
         "id": 182,
