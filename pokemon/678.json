@@ -3,9 +3,9 @@
   "name": "Meowstic",
   "form": null,
   "competitive": {
-    "usage_rank": 75,
-    "usage_rate": 0.0012404113978262664,
-    "win_rate": 0.47058823529411764,
+    "usage_rank": 90,
+    "usage_rate": 0.000945040272587763,
+    "win_rate": 0.43577981651376146,
     "moves": [
       {
         "id": 252,

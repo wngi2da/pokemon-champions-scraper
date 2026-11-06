@@ -3,9 +3,9 @@
   "name": "Slowking",
   "form": null,
   "competitive": {
-    "usage_rank": 200,
-    "usage_rate": 6.662056100857184e-05,
-    "win_rate": 0.23809523809523808,
+    "usage_rank": 170,
+    "usage_rate": 0.00014739160214671533,
+    "win_rate": 0.4117647058823529,
     "moves": [
       {
         "id": 881,

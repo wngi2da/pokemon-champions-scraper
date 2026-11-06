@@ -3,9 +3,9 @@
   "name": "Corviknight",
   "form": null,
   "competitive": {
-    "usage_rank": 52,
-    "usage_rate": 0.003829096054159344,
-    "win_rate": 0.49420049710024855,
+    "usage_rank": 40,
+    "usage_rate": 0.00545782432655043,
+    "win_rate": 0.4880857823669579,
     "moves": [
       {
         "id": 413,

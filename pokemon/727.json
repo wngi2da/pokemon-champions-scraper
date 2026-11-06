@@ -3,9 +3,9 @@
   "name": "Incineroar",
   "form": null,
   "competitive": {
-    "usage_rank": 2,
-    "usage_rate": 0.06378442855420693,
-    "win_rate": 0.49423057793693426,
+    "usage_rank": 3,
+    "usage_rate": 0.0622079262001578,
+    "win_rate": 0.4821951219512195,
     "moves": [
       {
         "id": 252,

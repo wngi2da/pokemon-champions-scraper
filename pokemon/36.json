@@ -3,9 +3,9 @@
   "name": "Clefable",
   "form": null,
   "competitive": {
-    "usage_rank": 64,
-    "usage_rate": 0.0019542031229181074,
-    "win_rate": 0.46266233766233766,
+    "usage_rank": 76,
+    "usage_rate": 0.0014565758329793046,
+    "win_rate": 0.46875,
     "moves": [
       {
         "id": 585,

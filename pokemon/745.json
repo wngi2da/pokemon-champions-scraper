@@ -3,9 +3,9 @@
   "name": "Lycanroc",
   "form": null,
   "competitive": {
-    "usage_rank": 144,
-    "usage_rate": 0.00028234428236966163,
-    "win_rate": 0.42696629213483145,
+    "usage_rank": 192,
+    "usage_rate": 6.502570682943324e-05,
+    "win_rate": 0.5333333333333333,
     "moves": [
       {
         "id": 182,

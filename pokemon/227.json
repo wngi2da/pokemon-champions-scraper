@@ -3,9 +3,9 @@
   "name": "Skarmory",
   "form": null,
   "competitive": {
-    "usage_rank": 100,
-    "usage_rate": 0.0007582054324308891,
-    "win_rate": 0.401673640167364,
+    "usage_rank": 120,
+    "usage_rate": 0.0004161645237083727,
+    "win_rate": 0.3958333333333333,
     "moves": [
       {
         "id": 442,

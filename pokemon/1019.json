@@ -3,9 +3,9 @@
   "name": "Hydrapple",
   "form": null,
   "competitive": {
-    "usage_rank": 180,
-    "usage_rate": 0.00012689630668299398,
-    "win_rate": 0.4,
+    "usage_rank": 152,
+    "usage_rate": 0.0002470976859518463,
+    "win_rate": 0.47368421052631576,
     "moves": [
       {
         "id": 907,

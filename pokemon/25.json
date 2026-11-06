@@ -3,9 +3,9 @@
   "name": "Pikachu",
   "form": null,
   "competitive": {
-    "usage_rank": 131,
-    "usage_rate": 0.00035213725104530833,
-    "win_rate": 0.42342342342342343,
+    "usage_rank": 189,
+    "usage_rate": 6.936075395139546e-05,
+    "win_rate": 0.4375,
     "moves": [
       {
         "id": 182,

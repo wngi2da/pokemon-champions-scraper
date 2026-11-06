@@ -3,9 +3,9 @@
   "name": "Aromatisse",
   "form": null,
   "competitive": {
-    "usage_rank": 162,
-    "usage_rate": 0.00018717205235741614,
-    "win_rate": 0.4745762711864407,
+    "usage_rank": 153,
+    "usage_rate": 0.00024276263882988408,
+    "win_rate": 0.5178571428571429,
     "moves": [
       {
         "id": 585,

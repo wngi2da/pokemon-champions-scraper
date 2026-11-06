@@ -3,9 +3,9 @@
   "name": "Lycanroc-Midnight",
   "form": "midnight",
   "competitive": {
-    "usage_rank": 186,
-    "usage_rate": 0.00010786186068054489,
-    "win_rate": 0.4411764705882353,
+    "usage_rank": 173,
+    "usage_rate": 0.0001387215079027909,
+    "win_rate": 0.46875,
     "moves": [
       {
         "id": 157,

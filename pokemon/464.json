@@ -3,9 +3,9 @@
   "name": "Rhyperior",
   "form": null,
   "competitive": {
-    "usage_rank": 165,
-    "usage_rate": 0.0001839996446903413,
-    "win_rate": 0.41379310344827586,
+    "usage_rank": 128,
+    "usage_rate": 0.00035980891112286393,
+    "win_rate": 0.46987951807228917,
     "moves": [
       {
         "id": 182,

@@ -3,9 +3,9 @@
   "name": "Salazzle",
   "form": null,
   "competitive": {
-    "usage_rank": 98,
-    "usage_rate": 0.0007708950630991885,
-    "win_rate": 0.46296296296296297,
+    "usage_rank": 109,
+    "usage_rate": 0.0005548860316111637,
+    "win_rate": 0.4140625,
     "moves": [
       {
         "id": 252,

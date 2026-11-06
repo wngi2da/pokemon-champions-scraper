@@ -3,9 +3,9 @@
   "name": "Sableye",
   "form": null,
   "competitive": {
-    "usage_rank": 48,
-    "usage_rate": 0.004209784974208325,
-    "win_rate": 0.3960060286360211,
+    "usage_rank": 45,
+    "usage_rate": 0.0038105064202047876,
+    "win_rate": 0.3794084186575654,
     "moves": [
       {
         "id": 240,

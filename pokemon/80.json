@@ -3,9 +3,9 @@
   "name": "Slowbro",
   "form": null,
   "competitive": {
-    "usage_rank": 120,
-    "usage_rate": 0.0004282750350551047,
-    "win_rate": 0.4962962962962963,
+    "usage_rank": 85,
+    "usage_rate": 0.0010620865448807428,
+    "win_rate": 0.46938775510204084,
     "moves": [
       {
         "id": 776,

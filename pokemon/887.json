@@ -3,9 +3,9 @@
   "name": "Dragapult",
   "form": null,
   "competitive": {
-    "usage_rank": 59,
-    "usage_rate": 0.0024268918653122602,
-    "win_rate": 0.4725490196078431,
+    "usage_rank": 48,
+    "usage_rate": 0.0036067592054725636,
+    "win_rate": 0.43990384615384615,
     "moves": [
       {
         "id": 182,
