@@ -3,9 +3,9 @@
   "name": "Audino",
   "form": null,
   "competitive": {
-    "usage_rank": 105,
-    "usage_rate": 0.0005895664085868613,
-    "win_rate": 0.3088235294117647,
+    "usage_rank": 139,
+    "usage_rate": 0.0003078201714558355,
+    "win_rate": 0.21666666666666667,
     "moves": [
       {
         "id": 791,

@@ -3,9 +3,9 @@
   "name": "Araquanid",
   "form": null,
   "competitive": {
-    "usage_rank": 73,
-    "usage_rate": 0.0015519468696624731,
-    "win_rate": 0.5307262569832403,
+    "usage_rank": 85,
+    "usage_rate": 0.0009439818591312288,
+    "win_rate": 0.5190217391304348,
     "moves": [
       {
         "id": 710,

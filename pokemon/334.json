@@ -3,9 +3,9 @@
   "name": "Altaria",
   "form": null,
   "competitive": {
-    "usage_rank": 81,
-    "usage_rate": 0.0012528286182470804,
-    "win_rate": 0.4809688581314879,
+    "usage_rank": 91,
+    "usage_rate": 0.0008208537905488947,
+    "win_rate": 0.425,
     "moves": [
       {
         "id": 366,

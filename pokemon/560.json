@@ -3,9 +3,9 @@
   "name": "Scrafty",
   "form": null,
   "competitive": {
-    "usage_rank": 52,
-    "usage_rate": 0.003216604964495964,
-    "win_rate": 0.4919137466307278,
+    "usage_rank": 60,
+    "usage_rate": 0.001872572709689666,
+    "win_rate": 0.4904109589041096,
     "moves": [
       {
         "id": 252,

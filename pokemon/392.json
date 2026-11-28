@@ -3,9 +3,9 @@
   "name": "Infernape",
   "form": null,
   "competitive": {
-    "usage_rank": 110,
-    "usage_rate": 0.000502865466147617,
-    "win_rate": 0.3879310344827586,
+    "usage_rank": 156,
+    "usage_rate": 0.00020521344763722366,
+    "win_rate": 0.45,
     "moves": [
       {
         "id": 7,

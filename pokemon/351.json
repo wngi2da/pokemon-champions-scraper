@@ -3,9 +3,9 @@
   "name": "Castform",
   "form": null,
   "competitive": {
-    "usage_rank": 200,
-    "usage_rate": 3.034532985373551e-05,
-    "win_rate": 0.14285714285714285,
+    "usage_rank": 127,
+    "usage_rate": 0.00040016622289258615,
+    "win_rate": 0.358974358974359,
     "moves": [
       {
         "id": 182,

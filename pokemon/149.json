@@ -3,9 +3,9 @@
   "name": "Dragonite",
   "form": null,
   "competitive": {
-    "usage_rank": 27,
-    "usage_rate": 0.011266787469979798,
-    "win_rate": 0.518468641785302,
+    "usage_rank": 29,
+    "usage_rate": 0.009521903970367179,
+    "win_rate": 0.5269396551724138,
     "moves": [
       {
         "id": 182,

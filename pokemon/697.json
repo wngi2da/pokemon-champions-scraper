@@ -3,9 +3,9 @@
   "name": "Tyrantrum",
   "form": null,
   "competitive": {
-    "usage_rank": 174,
-    "usage_rate": 0.0001387215079027909,
-    "win_rate": 0.40625,
+    "usage_rank": 200,
+    "usage_rate": 3.078201714558355e-05,
+    "win_rate": 0.3333333333333333,
     "moves": [
       {
         "id": 157,

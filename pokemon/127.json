@@ -3,9 +3,9 @@
   "name": "Pinsir",
   "form": null,
   "competitive": {
-    "usage_rank": 191,
-    "usage_rate": 6.936075395139546e-05,
-    "win_rate": 0.1875,
+    "usage_rank": 204,
+    "usage_rate": 2.0521344763722368e-05,
+    "win_rate": 0.25,
     "moves": [
       {
         "id": 182,

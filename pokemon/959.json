@@ -3,9 +3,9 @@
   "name": "Tinkaton",
   "form": null,
   "competitive": {
-    "usage_rank": 87,
-    "usage_rate": 0.0010360762621489696,
-    "win_rate": 0.3807531380753138,
+    "usage_rank": 100,
+    "usage_rate": 0.0006207706791026016,
+    "win_rate": 0.39669421487603307,
     "moves": [
       {
         "id": 893,

@@ -3,9 +3,9 @@
   "name": "Talonflame",
   "form": null,
   "competitive": {
-    "usage_rank": 56,
-    "usage_rate": 0.0028654661476170246,
-    "win_rate": 0.4198184568835098,
+    "usage_rank": 54,
+    "usage_rate": 0.0025959501126108795,
+    "win_rate": 0.44960474308300397,
     "moves": [
       {
         "id": 366,

@@ -3,9 +3,9 @@
   "name": "Typhlosion",
   "form": null,
   "competitive": {
-    "usage_rank": 180,
-    "usage_rate": 0.00012571636653690426,
-    "win_rate": 0.41379310344827586,
+    "usage_rank": 123,
+    "usage_rate": 0.0004309482400381697,
+    "win_rate": 0.42857142857142855,
     "moves": [
       {
         "id": 284,

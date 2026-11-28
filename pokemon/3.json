@@ -3,9 +3,9 @@
   "name": "Venusaur",
   "form": null,
   "competitive": {
-    "usage_rank": 15,
-    "usage_rate": 0.019126227902097295,
-    "win_rate": 0.5001133272892112,
+    "usage_rank": 23,
+    "usage_rate": 0.014775368229880103,
+    "win_rate": 0.5048611111111111,
     "moves": [
       {
         "id": 188,

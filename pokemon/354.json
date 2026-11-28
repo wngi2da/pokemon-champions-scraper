@@ -3,9 +3,9 @@
   "name": "Banette",
   "form": null,
   "competitive": {
-    "usage_rank": 155,
-    "usage_rate": 0.00023409254458595964,
-    "win_rate": 0.5370370370370371,
+    "usage_rank": 182,
+    "usage_rate": 0.00010773706000954242,
+    "win_rate": 0.38095238095238093,
     "moves": [
       {
         "id": 261,

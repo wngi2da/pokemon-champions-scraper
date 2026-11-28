@@ -3,9 +3,9 @@
   "name": "Metagross",
   "form": null,
   "competitive": {
-    "usage_rank": 41,
-    "usage_rate": 0.005063335038451868,
-    "win_rate": 0.4644691780821918,
+    "usage_rank": 40,
+    "usage_rate": 0.00563823947383272,
+    "win_rate": 0.4913557779799818,
     "moves": [
       {
         "id": 182,

@@ -3,9 +3,9 @@
   "name": "Garganacl",
   "form": null,
   "competitive": {
-    "usage_rank": 198,
-    "usage_rate": 3.468037697569773e-05,
-    "win_rate": 0.0,
+    "usage_rank": 158,
+    "usage_rate": 0.00020008311144629307,
+    "win_rate": 0.3076923076923077,
     "moves": [
       {
         "id": 864,
